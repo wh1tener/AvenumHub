@@ -1,0 +1,13 @@
+name: AvenumHub
+main: codevink\avenum\Loader
+
+version: 1.0.0
+api: 5.0.0
+
+load: POSTWORLD
+
+description: Avenum's hub system
+prefix: AvenumHub
+
+authors: [sheluvmyshe, codevink]
+website: https://github.com/krqkenez/avenumhub
